@@ -1,4 +1,7 @@
 #casos de uso do projeto AVA
 
-#UC1 Login de usuário 
-Pre requisito ter uma conta cadastrada.
+#UC1 Usuário cadastrado 
+Pre consição
+1) cadastro de usuário 
+2) tela de login
+
