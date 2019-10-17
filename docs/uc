@@ -5,3 +5,10 @@ Pre consição
 1) cadastro de usuário 
 2) tela de login
 
+Relatório da venda para o usuário.
+Para que haja um relatório de vendas, necessita-se acima de tudo que haja uma venda, com isso as informações da venda, como o valor acordado a forma de pagamento envio e dados do vendedor, devem aparecer no relatório que aparecerá no app, e será enviado para o e-mail do comprador.
+Destaque de produtos ou serviços 
+ O destaque de produtos deverá compor aquilo que está em alta dentro do app, ou seja aquilo que atrai mais consumidores, mais pesquisas e mais vendas, o algoritmo deve analisar o seu valor e efetuar comparações entre os anúncios para ver quais são os mais populares, levando em consideração o seu preço numero de acessos vendas e a satisfação com o que está sendo vendido. Caso o anuncio esteja abaixo das expectativas o mesmo será colocado abaixo e será informado ao vendedor possibilidades de melhorias em seu anuncio.
+Relevância de anúncios
+Durante uma pesquisa de um comprador, o algoritmo deve ser capaz de identificar os anúncios mais relevantes e exibi-los por primeiro ao usuário, devem ser levados em consideração para a análise, a média de preço do produto da mesma categoria informações sobre o produto.
+
